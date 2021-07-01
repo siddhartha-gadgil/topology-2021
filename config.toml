@@ -1,0 +1,11 @@
+baseURL = "http://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/"
+languageCode = "en-us"
+title = "MA 232: Introduction to Algebraic Topology"
+theme = "course"
+buildFuture = "true"
+[params]
+    code = "MA 232"
+    course = "Introduction to Algebraic Topology"
+    term = "October 2020"
+[markup.goldmark.renderer]
+unsafe= true
