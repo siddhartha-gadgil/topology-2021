@@ -1,17 +1,13 @@
 +++
-title="MA 232: Introduction to Algebraic Topology"
+title="MA 231: Topology"
 +++
 
 ### Syllabus
 
-__The fundamental group:__ Homotopy of maps, multiplication of paths, the fundamental group, induced
-homomorphisms, the fundamental group of the circle, covering spaces, lifting theorems, the
-universal covering space, Seifert-van Kampen theorem, applications. 
-
-__Simplicial Homology:__ Simplicial complexes, chain complexes, definitions of the simplicial homology
-groups, properties of homology groups, applications.
+Open and closed sets,  continuous functions, Metric topology, Product topology, Connectedness and path-connectedness, Compactness, Countability axioms, Separation axioms, Complete metric spaces, Quotient topology, Topological groups, Orbit spaces, Urysohn's lemma, Metrizability, Baire Category theorem.
 
 #### Suggested books: 
 
-1. Hatcher, A., Algebraic Topology, Cambridge University Press, 2002.
-2. Armstrong, M.A., Basic Topology, Springer (India), 2004.
+1. Armstrong, M. A., Basic Topology, Springer (India), 2004.
+2. Munkres, K. R., Topology, Pearson Education, 2005.
+3. Viro, O.Ya., Ivanov, O.A., Netsvetaev, N., and Kharlamov, V.M., Elementary Topology: Problem Textbook, AMS, 2008.
