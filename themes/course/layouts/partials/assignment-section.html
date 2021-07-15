@@ -1,6 +1,6 @@
 <section>
     <h4>Assignments</h4>
-    <p> Assignments will be posted roughly once in two weeks. </p>
+    {{ partial "assignment-summary.html" . }}
     <ol>
       {{  range where $.Site.RegularPages.ByDate "Section" "assignments" }}
       <li> <a href={{ .Permalink }}>{{ .Title }}</a> due by {{ dateFormat "Monday, Jan 2, 2006" .Date }}.
