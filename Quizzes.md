@@ -44,7 +44,7 @@ For each of the following functions $d: \mathbb{R^2}\times\mathbb{R^2}\to\mathbb
 
 ## Quiz 5.1
 
-Let $X$ be a topological space, $x, y\in X$ points and $A$\subset X$ a subset. Determine whether the following statements must be true.
+Let $X$ be a topological space, $x, y\in X$ points and $A\subset X$ a subset. Determine whether the following statements must be true.
 
 1. $d(A, y) \leq d(A, x) + d(x, y)$.
 2. $d(x, y) \leq d(A, x) + d(A, y)$.
@@ -59,7 +59,7 @@ Suppose we consider the Hausdorff distance on all bounded sets (i.e., not necess
 
 ## Quiz 5.3
 
-Let $A$ be the subset of the Cantor set consisting of sequences $\{a_n\}$ such that all but finitely many of the $a_n$s are $0$. Determine whether the following are true of $A$.
+Let $A$ be the subset of the Cantor set consisting of sequences $\{a_n\}$ such that  $a_n= 0$ for all but finitely many $n$. Determine whether the following are true of $A$.
 
 1. $A$ is open in $X$.
 2. $A$ is closed in $X$.
@@ -125,6 +125,10 @@ Let $f, g: X\to \mathbb{R}$ be continuous functions from a topological space to 
 ## Quiz 9.1
 
 Let $X$ be a set. What is the initial topology on $X$ so that all functions $f: X \to \{0, 1\}$ is continuous?
+
+1. Discrete
+2. Indiscrete
+3. Cofinite
 
 ## Quiz 9.2
 
@@ -237,5 +241,5 @@ For which of the following subsets $A \subset\mathbb{R}$ is it true that every c
 
 1. $A = (0, 1)$
 2. $A = [0, 1]\cup [2, 3]$
-3. $A = {x\in \mathbb{R}: x \leq 2}$
+3. $A = \{x\in \mathbb{R}: x \leq 2\}$
 
