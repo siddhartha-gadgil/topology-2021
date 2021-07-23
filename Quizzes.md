@@ -44,7 +44,7 @@ For each of the following functions $d: \mathbb{R^2}\times\mathbb{R^2}\to\mathbb
 
 ## Quiz 5.1
 
-Let $X$ be a topological space, $x, y\in X$ points and $A\subset X$ a subset. Determine whether the following statements must be true.
+Let $X$ be a metric space, $x, y\in X$ points and $A\subset X$ a subset. Determine whether the following statements must be true.
 
 1. $d(A, y) \leq d(A, x) + d(x, y)$.
 2. $d(x, y) \leq d(A, x) + d(A, y)$.
@@ -139,7 +139,7 @@ Determine which of the following are true.
 
 ## Quiz 10.1
 
-Determine whether there is a continuous bijection between $X$ and $Y$ for the following pairs of spaces.
+Determine whether there is a continuous bijection from $X$ to $Y$ for the following pairs of spaces.
 
 1. $X=\mathbb{R}$ and $Y=S^1$.
 2. $X=(0, 1]$ and $Y= S^1$.
