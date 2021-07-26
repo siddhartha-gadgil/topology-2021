@@ -198,7 +198,7 @@ Let $X= \{(x, y)\in\mathbb{R}^2: xy = 0\}$. Then which of the following is the n
 
 For which of the following spaces $X$ is every path in $X$ a constant path.
 
-1. $X = \mathbb{Q}$.
+1. $X = \mathbb{Q}$ with the metric topology from $d(x, y) = |x - y|$.
 2. $X =\mathbb{N}$ with the cofinite topology.
 3. $X = \mathbb{N}$ with the indiscrete topology.
 

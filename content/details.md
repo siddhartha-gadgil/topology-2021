@@ -12,6 +12,8 @@ A Team for this course (within IISc) named __Topology : August 2021__ has been c
 
 Please download the appropriate Teams app before the first interactive session. There are Apps available for Windows, Linux (Debian/Ubuntu and Redhat), Mac, Android and iOS. Once you have joined the team, whenever I (or someone else) starts a meeting  you will see in the chat that a meeting has started. Please click to join.
 
+The interactive sessions will be weekly on __Wednesdays and Fridays, 9:00 am to 10:00 am__, starting on __Wednesday, August 4, 2021__.
+
 I would encourage using the Teams chat when it is set up to ask questions whenever needed.  We will also meet for interactive sessions.
 
 ##### Assignment submissions
