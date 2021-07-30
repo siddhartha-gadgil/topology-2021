@@ -1,8 +1,10 @@
 ---
 title: "Continuity"
-date: 2021-09-06
+date: 2021-09-13
 draft: true
 ---
+
+This assignment is based on material in lectures 7 and 8.
 
 1. Let `$f: X\to Y$` be a function and `$A, B\subset X$`. Prove or disprove the following.
     1. `$f(A\cup B)\subset f(A)\cup f(B)$`.

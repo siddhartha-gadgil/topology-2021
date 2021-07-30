@@ -31,3 +31,13 @@ Grades will be based on the  assignments, midterm examinations and final examina
 * __Midterm 2:__ 25%
 * __Midterm 3:__ 20%
 * __Final exam:__ 30%
+
+##### Midterm I
+
+The following is tentative and will be finalized after the start of the course.
+
+* __Date:__ Saturday, September 4, 2021.
+    * __Written Exam:__ 9:00 am to 10:00 am.
+    * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
+* __Syllabus__: Topological spaces; Bases; Metric spaces; Subspaces; Subsets and points, interiors and closures (up to Lecture 6).
+* __Weightage:__ 15% of the total.

@@ -4,6 +4,8 @@ date: 2021-08-23
 draft: false
 ---
 
+This assignment is based on material in lectures 3 and 4.
+
 1. Let `$X$` be a space with discrete topology and `$B$` a collection of subsets of `$X$`. Prove or disprove that  `$B$` is a basis _if and only if_ every singleton set `$\{x\}$`, with `$x\in X$`, is in `$B$`.
 
 2. Which of the following form a basis for some topology on $\mathbb{R}^2$? In each case prove or disprove.

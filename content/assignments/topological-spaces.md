@@ -4,6 +4,8 @@ date: 2021-08-16
 draft: false
 ---
 
+This assignment is based on material in lectures 1 and 2.
+
 1. For sets `$A$` and `$B$`, recall that `$A\setminus B= \{a\in A: a \notin B\}$.` Which of the following always equals `$A\setminus (A \setminus B)$?` Prove your answer.
     1. `$A$`
     2. `$B$`

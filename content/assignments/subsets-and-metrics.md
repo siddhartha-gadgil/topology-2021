@@ -4,6 +4,8 @@ date: 2021-08-30
 draft: false
 ---
 
+This assignment is based on material in lectures 5 and 6.
+
 1. Let `$X$` be a metric space, `$x, y\in X$` points and `$A\subset X$` a subset. Prove or disprove the following.
     1. `$d(A, y) \leq d(A, x) + d(x, y)$`.
     2. `$d(x, y) \leq d(A, x) + d(A, y)$`.
