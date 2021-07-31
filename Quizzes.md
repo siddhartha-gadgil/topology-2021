@@ -243,3 +243,108 @@ For which of the following subsets $A \subset\mathbb{R}$ is it true that every c
 2. $A = [0, 1]\cup [2, 3]$
 3. $A = \{x\in \mathbb{R}: x \leq 2\}$
 
+## Quiz 16.1
+
+Recall that the Sorgenfrey line $\mathbb{R}_l$ is the topological space with underlying set $\mathbb{R}$ and with topology having basis $\{[a, b): a, b\in\mathbb{R}\}$. Let $\{a_n\}$ be a sequence of real numbers. Which of the following statements is true?
+
+1. If $\{a_n\}$ converges to $0$ in $\mathbb{R}$ (with its usual topology), then $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$.
+2. If $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$, then $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$ (with its usual topology).
+3. If $a_n=\frac{1}{n}$ for all $n\geq 1$, then $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$.
+4. If $a_n=\frac{-1}{n}$ for all $n\geq 1$, then $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$.
+
+## Quiz 16.2
+
+Let $X$ be the natural numbers with the cofinite topology, and consider the sequence $\{n\}_{n\geq 1}$ in $X$. Which of the following is true.
+
+1. The sequence $\{n\}_{n\geq 1}$ converges to $0\in X$.
+2. The sequence $\{n\}_{n\geq 1}$ converges to $1\in X$.
+3. The sequence $\{n\}_{n\geq 1}$ does not converge in $X$.
+
+## Quiz 16.3
+
+Which of the following are well-ordered sets with their usual ordering?
+
+1. $\mathbb{Z}$.
+2. $\mathbb{N}$.
+3. $\mathbb{Q}$.
+
+## Quiz 17.1
+
+Let $S$ be a set. Which of the following is true.
+
+1. $S$ with indiscrete topology is compact if and only if $S$ is finite.
+2. $S$ with discrete topology is compact if and only if $S$ is finite.
+3. $S$ with indiscrete topology is always compact.
+4. $S$ with discrete topology is always compact.
+
+## Quiz 17.2
+
+Let $X$ be an infinite set with the discrete metric. Which of the following is true for a subset $A\subset X$.
+
+1. If $A$ is compact then $A$ is closed and bounded.
+2. If $A$ is closed and bounded then $A$ is compact.
+
+## Quiz 17.3
+
+Let $(X, \leq)$ be an ordered set giving a topological space with the order topology. Which of the following is true?
+
+1. If $X$ is sequentially compact, then every bounded monotonic sequence in $X$ is convergent.
+2. If every bounded monotonic sequence in $X$ is convergent, then $X$ is sequentially compact.
+
+## Quiz 18.1
+
+Consider the cover of $X = [0, 1]$ by sets of the form $X\cap (a, a + \frac{1}{3})$ for $a\in \mathbb{R}$. Then which of the following is __a__ Lesbegue number for this cover.
+
+1. $1$
+2. $1/3$
+3. $1/6$
+4. $1/9$
+
+## Quiz 18.2
+
+Let $X=[0,1]\times[0,1]\subset\mathbb{R}^2$. For which of the following functions $N(\varepsilon)$ is there an $\varepsilon$-net of size $N(\varepsilon)$ in $X$ for evey $\varepsilon\in (0, 1)$?
+
+1. $N(\varepsilon) = 10/\varepsilon$.
+2. $N(\varepsilon) = 10/\varepsilon^2$.
+3. $N(\varepsilon) = 10/\varepsilon^3$.
+
+## Quiz 19.1
+
+Let $X$ be a topological space and let $X^*$ be its one-point compactification. Which of the following must be true?
+
+1. If $X$ is compact then $X^*$ is homeomorphic to $X$.
+2. If $X$ is compact then $X^*$ is not connected.
+3. If $X$ is connected then $X^*$ is connected.
+
+## Quiz 20.1
+
+Let $X$ and $Y$ be topological spaces. Which of the following is true?
+
+1. If $X$ and $Y$ have discrete topologies then $X\times Y$ has the discrete topology.
+2. If $X$ and $Y$ have indiscrete topologies then $X\times Y$ has the indiscrete topology.
+3. If $X$ and $Y$ are connected then $X\times Y$ is connected.
+
+## Quiz 20.2
+
+Let $A$ be a set and let $X=\prod_{a\in A}\mathbb{R}$ be the product of copies of $\mathbb{R}$ indexed by $A$. Which of the following is true?
+
+1. $X$ is second countable if and only if $A$ is finite.
+2. $X$ is second countable if and only if $A$ is countable.
+3. $X$ is first countable if and only if $A$ is countable.
+
+## Quiz 21.1
+
+Let $D$ be the discrete topology on a set with $2$ points and let $X= \prod_{n\in\mathbb{N}} D$ be the product of countably many copies of $D$. To which of the following spaces is $X$ homeomorphic?
+
+1. $\mathbb{R}$ with the discrete topology.
+2. $\mathbb{R}$ with the standard topology.
+3. The Cantor set.
+
+## Quiz 21.2
+
+Which of the following topologies on $\mathbb{N}$ is metrizable?
+
+1. The discrete topology.
+2. The indiscrete topology.
+3. The cofinite topology.
+ 

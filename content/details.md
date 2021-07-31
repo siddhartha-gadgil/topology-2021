@@ -18,7 +18,9 @@ I would encourage using the Teams chat when it is set up to ask questions whenev
 
 ##### Assignment submissions
 
-Assignments will be posted on this web site and linked in Microsoft Teams. They have to be submitted through Microsoft Teams.
+Assignments will be posted on this web site and linked in Microsoft Teams. They have to be submitted through Microsoft Teams. The easiest way to do this is to write on paper, photograph or scan this and submit `pdf` or image files. It is recommended that you use an app like `Adobe scan` or `Microsoft Lens` to generate a single pdf file for each assignment (instead of a collection of images).
+
+If you wish you can instead use `LaTeX` and submit `pdf` files.
 
 #### Examinations and Grades
 
