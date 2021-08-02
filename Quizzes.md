@@ -73,7 +73,6 @@ Determine which of the following are true.
 2. A subspace of a space with indiscrete topology has indiscrete topology.
 3. A subspace of a space with cofinite topology has cofinite topology.
 
-
 ## Quiz 6.2
 
 The interior of the set $\mathbb{Z}\subset\mathbb{R}$ is
@@ -93,7 +92,7 @@ Let $f: X\to Y$ be a function and $A, B\subset X$. Which of the following is tru
 
 ## Quiz 7.2
 
-Let $(X, d_X)$ and $(Y, d_Y)$ be metric spaces. A map $f: X\to Y$ is said to be Lipschitz if there exists a constant $K> 0$ such that for $$\forall p, q\in X,\ d_Y(f(p), f(q)) \leq K d_X(p, q).$$
+Let $(X, d_X)$ and $(Y, d_Y)$ be metric spaces. A map $f: X\to Y$ is said to be Lipschitz if there exists a constant $K> 0$ such that for $$\forall p, q\in X, \ d_Y(f(p), f(q)) \leq K d_X(p, q).$$
 
 Determine whether the following are true?
 
@@ -248,9 +247,9 @@ For which of the following subsets $A \subset\mathbb{R}$ is it true that every c
 Recall that the Sorgenfrey line $\mathbb{R}_l$ is the topological space with underlying set $\mathbb{R}$ and with topology having basis $\{[a, b): a, b\in\mathbb{R}\}$. Let $\{a_n\}$ be a sequence of real numbers. Which of the following statements is true?
 
 1. If $\{a_n\}$ converges to $0$ in $\mathbb{R}$ (with its usual topology), then $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$.
-2. If $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$, then $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$ (with its usual topology).
+2. If $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$, then $\{a_n\}$ converges to $0$ in $\mathbb{R}$ (with its usual topology).
 3. If $a_n=\frac{1}{n}$ for all $n\geq 1$, then $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$.
-4. If $a_n=\frac{-1}{n}$ for all $n\geq 1$, then $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$.
+4. If $a_n=-\frac{1}{n}$ for all $n\geq 1$, then $\{a_n\}$ converges to $0$ in $\mathbb{R}_l$.
 
 ## Quiz 16.2
 
@@ -302,7 +301,7 @@ Consider the cover of $X = [0, 1]$ by sets of the form $X\cap (a, a + \frac{1}{3
 
 ## Quiz 18.2
 
-Let $X=[0,1]\times[0,1]\subset\mathbb{R}^2$. For which of the following functions $N(\varepsilon)$ is there an $\varepsilon$-net of size $N(\varepsilon)$ in $X$ for evey $\varepsilon\in (0, 1)$?
+Let $X=[0, 1]\times[0, 1]\subset\mathbb{R}^2$. For which of the following functions $N(\varepsilon)$ is there an $\varepsilon$-net of size $N(\varepsilon)$ in $X$ for evey $\varepsilon\in (0, 1)$?
 
 1. $N(\varepsilon) = 10/\varepsilon$.
 2. $N(\varepsilon) = 10/\varepsilon^2$.
@@ -348,9 +347,10 @@ Which of the following topologies on $\mathbb{N}$ is metrizable?
 2. The indiscrete topology.
 3. The cofinite topology.
  
+
 ## Quiz 22.1
 
-Let $A\subset\mathbb{R}^2$ be the subset $A = \{(x, y): x\in \mathbb{Q}\}$. Which of the following is true?
+Let $A\subset\mathbb{R}^2$ be the subset $A = \{(x, y)\in \mathbb{R}^2: x\in \mathbb{Q}\}$. Which of the following is true?
 
 1. $A$ is dense.
 2. The complement $\mathbb{R}^2\setminus\bar{A}$ of the closure of $A$ is a dense open set.
