@@ -25,7 +25,7 @@ The videos are embedded from YouTube (to which I uploaded the videos after makin
 The only change I have made manually is the size of the frame (as the default is a bit small for lectures). An example of embedding is below, where only the `width` and `height` have been changed from the code provided by YouTube.
 
 ```html
-<iframe width="853" height="505" src="https://www.youtube.com/embed/hFtqRCmM6ys" frameborder="0"
+<iframe width="853" height="505"  data-src="https://www.youtube.com/embed/hFtqRCmM6ys" frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen></iframe>
 ```
