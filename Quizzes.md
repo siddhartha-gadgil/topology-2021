@@ -346,7 +346,6 @@ Which of the following topologies on $\mathbb{N}$ is metrizable?
 1. The discrete topology.
 2. The indiscrete topology.
 3. The cofinite topology.
- 
 
 ## Quiz 22.1
 
