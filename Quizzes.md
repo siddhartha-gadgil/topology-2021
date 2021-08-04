@@ -301,7 +301,7 @@ Consider the cover of $X = [0, 1]$ by sets of the form $X\cap (a, a + \frac{1}{3
 
 ## Quiz 18.2
 
-Let $X=[0, 1]\times[0, 1]\subset\mathbb{R}^2$. For which of the following functions $N(\varepsilon)$ is there an $\varepsilon$-net of size $N(\varepsilon)$ in $X$ for evey $\varepsilon\in (0, 1)$?
+Let $X=[0, 1]\times[0, 1]\subset\mathbb{R}^2$. For which of the following functions $N(\varepsilon)$ is there an $\varepsilon$-net of cardinality at most $N(\varepsilon)$ in $X$ for every $\varepsilon\in (0, 1)$?
 
 1. $N(\varepsilon) = 10/\varepsilon$.
 2. $N(\varepsilon) = 10/\varepsilon^2$.
