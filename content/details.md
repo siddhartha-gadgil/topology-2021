@@ -36,7 +36,7 @@ Grades will be based on the  assignments, midterm examinations and final examina
 
 ##### Midterm I
 
-The following is tentative and will be finalized after the start of the course.
+The following are the details for the midterm I.
 
 * __Date:__ Saturday, September 4, 2021.
     * __Written Exam:__ 9:00 am to 10:00 am.
