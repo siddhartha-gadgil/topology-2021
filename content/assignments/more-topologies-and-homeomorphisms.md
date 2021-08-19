@@ -1,7 +1,7 @@
 ---
 title: "More Topologies and Homeomorphisms"
 date: 2021-09-20
-draft: true
+draft: false
 ---
 
 This assignment is based on material in lectures 9, 10 and 11.

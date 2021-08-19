@@ -1,7 +1,7 @@
 ---
 title: "Continuity"
 date: 2021-09-13
-draft: true
+draft: false
 ---
 
 This assignment is based on material in lectures 7 and 8.
