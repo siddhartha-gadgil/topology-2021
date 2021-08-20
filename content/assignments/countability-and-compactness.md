@@ -1,6 +1,6 @@
 ---
 title: "Countability and Compactness"
-date: 2021-10-11
+date: 2021-10-25
 draft: true
 ---
 

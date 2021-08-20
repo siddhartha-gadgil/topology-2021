@@ -43,3 +43,25 @@ The following are the details for the midterm I.
     * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
 * __Syllabus__: Topological spaces; Bases; Metric spaces; Subspaces; Subsets and points, interiors and closures (up to Lecture 6).
 * __Weightage:__ 15% of the total.
+
+##### Midterm II
+
+The following are the details for the midterm I.
+
+* __Date:__ Saturday, October 2, 2021.
+    * __Written Exam:__ 8:30 am to 10:00 am.
+    * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
+* __Syllabus__: The contents up to lecture 11. Details of the contents are on the [lectures page](./all-lectures/).
+* __Weightage:__ 25% of the total.
+
+##### Midterm III
+
+The following are the details for the midterm I.
+
+* __Date:__ Saturday, November 6, 2021.
+    * __Written Exam:__ 8:30 am to 10:00 am.
+    * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
+* __Syllabus__: The contents up to lecture 11. Details of the contents are on the [lectures page](./all-lectures/).
+* __Weightage:__ 20% of the total.
+
+

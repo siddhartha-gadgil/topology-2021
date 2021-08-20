@@ -1,6 +1,6 @@
 ---
 title: "Baire Theorem and Quotients"
-date: 2021-11-01
+date: 2021-11-22
 draft: true
 ---
 

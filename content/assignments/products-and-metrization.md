@@ -1,6 +1,6 @@
 ---
 title: "Products and Metrization"
-date: 2021-10-25
+date: 2021-11-15
 draft: true
 ---
 
