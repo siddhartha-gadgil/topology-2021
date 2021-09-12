@@ -1,8 +1,10 @@
 ---
 title: "Countability and Compactness"
 date: 2021-10-25
-draft: true
+draft: false
 ---
+
+This assignment is based on material in lectures 16 and 17.
 
 1. Recall that the Sorgenfrey line `$\mathbb{R}_l$` is the topological space with underlying set `$\mathbb{R}$` and with topology having basis `$\{[a, b): a, b\in\mathbb{R}\}$`. Let `$\{a_n\}$` be a sequence of real numbers. Prove or disprove the following.
     1. If `$\{a_n\}$` converges to `$0$` in `$\mathbb{R}$` (with its usual topology), then `$\{a_n\}$` converges to `$0$` in `$\mathbb{R}_l$.

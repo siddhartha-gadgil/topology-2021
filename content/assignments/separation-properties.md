@@ -1,7 +1,7 @@
 ---
 title: "Separation Properties"
 date: 2021-10-18
-draft: true
+draft: false
 ---
 
 This assignment is based on material in lecture 15.

@@ -1,8 +1,10 @@
 ---
 title: "Products and Metrization"
 date: 2021-11-15
-draft: true
+draft: false
 ---
+
+This assignment is based on material in lectures 20 and 21.
 
 1. Let `$X$` and `$Y$` be topological spaces. Prove or disprove the following.
     1. If `$X$` and `$Y$` have discrete topologies then `$X\times Y$` has the discrete topology.

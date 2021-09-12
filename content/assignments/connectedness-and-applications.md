@@ -1,7 +1,7 @@
 ---
 title: "Connectedness and Applications"
 date: 2021-10-11
-draft: true
+draft: false
 ---
 
 This assignment is based on material in lectures 12, 13 and 14.

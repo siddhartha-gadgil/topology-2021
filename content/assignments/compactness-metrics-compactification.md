@@ -1,8 +1,10 @@
 ---
 title: "Compactness for Metrics and Compactification"
 date: 2021-11-01
-draft: true
+draft: false
 ---
+
+This assignment is based on material in lectures 18 and 19.
 
 1. Consider the cover of `$X = [0, 1]$` by sets of the form `$X\cap (a, a + \frac{1}{3})$` for `$a\in \mathbb{R}$`. Find a Lesbegue number for this cover (and prove that it is a Lesbesgue number).
 

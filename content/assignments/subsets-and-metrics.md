@@ -15,7 +15,7 @@ This assignment is based on material in lectures 5 and 6.
     2. `$d_H(A, B) = d_H(B, A)$`.
     3. `$d_H(A, C)\leq d_H(A, B) + d_H(B, C)$`.
 
-3. Let `$A$` be the subset of the Cantor set consisting of sequences `$\{a_n\}$` such that  `$a_n= 0$` for all but finitely many `$n$`. Prove or disprove the following.
+3. Let `$A$` be the subset of the Cantor set `$X$` with `$A$` consisting of sequences `$\{a_n\}$` such that  `$a_n= 0$` for all but finitely many `$n$`. Prove or disprove the following.
     1. `$A$` is open in `$X$`.
     2. `$A$` is closed in `$X$`.
     3. `$A$` intersects every open set in `$X$`.

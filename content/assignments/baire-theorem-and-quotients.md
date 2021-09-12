@@ -1,8 +1,10 @@
 ---
 title: "Baire Theorem and Quotients"
 date: 2021-11-22
-draft: true
+draft: false
 ---
+
+This assignment is based on material in lectures 22 and 23.
 
 1. Let `$A\subset\mathbb{R}^2$` be the subset `$A = \{(x, y)\in \mathbb{R}^2: x\in \mathbb{Q}\}$`. Prove or disprove the following.
     1. `$A$` is dense.

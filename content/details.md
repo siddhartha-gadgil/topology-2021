@@ -61,7 +61,7 @@ The following are the details for the midterm I.
 * __Date:__ Saturday, November 6, 2021.
     * __Written Exam:__ 8:30 am to 10:00 am.
     * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
-* __Syllabus__: The contents up to lecture 11. Details of the contents are on the [lectures page](./all-lectures/).
+* __Syllabus__: The contents up to lecture 19. Details of the contents are on the [lectures page](./all-lectures/).
 * __Weightage:__ 20% of the total.
 
 
