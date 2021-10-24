@@ -46,7 +46,7 @@ The following are the details for the midterm I.
 
 ##### Midterm II
 
-The following are the details for the midterm I.
+The following are the details for the midterm II.
 
 * __Date:__ Saturday, October 2, 2021.
     * __Written Exam:__ 8:30 am to 10:00 am.
@@ -56,12 +56,10 @@ The following are the details for the midterm I.
 
 ##### Midterm III
 
-The following are the details for the midterm I.
+The following are the details for the midterm III.
 
-* __Date:__ Saturday, November 6, 2021.
-    * __Written Exam:__ 8:30 am to 10:00 am.
-    * __Oral follow-up:__ Short sessions with individual students between 10:00 am and 12 noon.
+* __Date:__ Friday, November 12, 2021.
+    * __Written Exam:__ 8:15 am to 9:45 am.
+    * __Oral follow-up:__ There will be no oral component.
 * __Syllabus__: The contents up to lecture 19. Details of the contents are on the [lectures page](./all-lectures/).
 * __Weightage:__ 20% of the total.
-
-

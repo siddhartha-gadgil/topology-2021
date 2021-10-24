@@ -12,9 +12,9 @@ This assignment is based on material in lectures 12, 13 and 14.
     3. The standard topology.
     4. The cofinite topology.
 
-2. Let $X$ be a connected topological space. Prove or disprove the following.
+2. Let `$X$` be a connected topological space. Prove or disprove the following.
     1. If the interior of a set `$A\subset X$` is connected then `$A$` is connected.
-    2. If `$A\subset X$` is a proper subset (i.e., `$A\neq X$`) then the frontier of `$A$` is non-empty.
+    2. If `$A\subset X$` is a non-empty proper subset of `$X$` (i.e., `$\phi\neq A\neq X$`) then the frontier of `$A$` is non-empty.
 
 3. Let `$f: X \to Y$` be a continuous surjective map. Prove or disprove the following statements.
     1. If `$X$` is connected then so is `$Y$`.
