@@ -63,3 +63,12 @@ The following are the details for the midterm III.
     * __Oral follow-up:__ There will be no oral component.
 * __Syllabus__: The contents up to lecture 19. Details of the contents are on the [lectures page](./all-lectures/).
 * __Weightage:__ 20% of the total.
+
+##### Final Examination
+
+This will be a written examination only, and the schedule is based on the [IISc Schedule](http://math.iisc.ac.in/exam-schedule-dec-2021.html).
+
+* __Date:__ Thursday, December 2, 2021.
+* __Time:__ 9:00 am to 12 noon (written exam only)
+* __Syllabus__ The contents of all lectures. Details of the contents of the lectures are on the [lectures page](all-lectures/).
+* __Weightage:__ 30% of the total.
