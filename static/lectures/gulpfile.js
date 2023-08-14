@@ -187,7 +187,7 @@ gulp.task('qunit', () => {
     let tests = Promise.all( testFiles.map( filename => {
         return new Promise( ( resolve, reject ) => {
             qunit.runQunitPuppeteer({
-                targetUrl: `http://${serverConfig.host}:${serverConfig.port}/${filename}`,
+                targetUrl: `https://${serverConfig.host}:${serverConfig.port}/${filename}`,
                 timeout: 20000,
                 redirectConsole: false,
                 puppeteerArgs: ['--allow-file-access-from-files']

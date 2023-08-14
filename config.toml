@@ -1,4 +1,4 @@
-baseURL = "http://math.iisc.ac.in/~gadgil/topology-2021/"
+baseURL = "https://math.iisc.ac.in/~gadgil/topology-2021/"
 languageCode = "en-us"
 title = "MA 231: Topology"
 theme = "course"

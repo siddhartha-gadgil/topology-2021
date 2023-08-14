@@ -1500,7 +1500,7 @@ export default function( revealElement, options ) {
 				element.classList.remove( 'present' );
 				element.classList.remove( 'future' );
 
-				// http://www.w3.org/html/wg/drafts/html/master/editing.html#the-hidden-attribute
+				// https://www.w3.org/html/wg/drafts/html/master/editing.html#the-hidden-attribute
 				element.setAttribute( 'hidden', '' );
 				element.setAttribute( 'aria-hidden', 'true' );
 

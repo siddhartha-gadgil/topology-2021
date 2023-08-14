@@ -1,6 +1,6 @@
 #### Course Details
   
-* __Instructor:__ [Siddhartha Gadgil](http://math.iisc.ac.in/~gadgil)
+* __Instructor:__ [Siddhartha Gadgil](https://math.iisc.ac.in/~gadgil)
 * __E-mail:__ _siddhartha.gadgil@gmail.com_
 * __Teaching Assistants:__ Pranab Sarkar, Pabitra Barman
 

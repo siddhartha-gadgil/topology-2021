@@ -137,7 +137,7 @@ export const closest = ( target, selector ) => {
 /**
  * Handling the fullscreen functionality via the fullscreen API
  *
- * @see http://fullscreen.spec.whatwg.org/
+ * @see https://fullscreen.spec.whatwg.org/
  * @see https://developer.mozilla.org/en-US/docs/DOM/Using_fullscreen_mode
  */
 export const enterFullscreen = element => {

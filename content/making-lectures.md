@@ -6,7 +6,7 @@ These are instructions for making lectures similar to [file:///home/gadgil/lectu
 
 #### Download and test
 
-1. Download the [zipped folder](http://math.iisc.ac.in/~gadgil/lectures.zip) or the full [google drive folder](https://drive.google.com/drive/folders/1McWVgZZL_422I51EY_pAeZGsbdW_Acuw?usp=sharing).
+1. Download the [zipped folder](https://math.iisc.ac.in/~gadgil/lectures.zip) or the full [google drive folder](https://drive.google.com/drive/folders/1McWVgZZL_422I51EY_pAeZGsbdW_Acuw?usp=sharing).
 2. Unzip if it is downloaded as a zipped file.
 3. Open the file `lecture1.html` in your browser; double-clicking on this file should do this.
 4. Edit the file `lecture1.html` or make copies and edit to make our own lectures.

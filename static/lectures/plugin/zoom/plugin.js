@@ -33,10 +33,10 @@ export default () => Plugin;
 
 /*!
  * zoom.js 0.3 (modified for use with reveal.js)
- * http://lab.hakim.se/zoom-js
+ * https://lab.hakim.se/zoom-js
  * MIT licensed
  *
- * Copyright (C) 2011-2014 Hakim El Hattab, http://hakim.se
+ * Copyright (C) 2011-2014 Hakim El Hattab, https://hakim.se
  */
 var zoom = (function(){
 
